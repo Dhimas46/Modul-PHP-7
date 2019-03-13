@@ -6,7 +6,7 @@ belajar PHP
                                     $uname = "root";
                                     $pass = "";
 
-                                    $connect = mysqli_connect($host, $uname, $pass, $db
+                                    $connect = mysqli_connect($host, $uname, $pass, $db);
 2.-Membuka tools xampp
   -Mengaktifkan Apache dan Mysql
   -Masuk Admin pada Mysql
@@ -18,4 +18,23 @@ belajar PHP
 3.Contoh kode query untuk menampilkan data : $query = "SELECT * FROM dosen";
 4.Contoh kode query untuk mengupdate data : $query = "UPDATE dosen SET nama_dosen = '$nama_dosen',telp ='$telp' WHERE id_dosen = $id_dosen";
 5.Contoh kode query untuk menghapus data : $query = "DELETE FROM dosen WHERE id_dosen = $id_dosen";
+
+Create Data :
+
+![alt text](https://github.com/Dhimas46/Modul-PHP-7/blob/master/From%20Create%20Data.JPG)
+
+Cek Data :
+
+![alt text](https://github.com/Dhimas46/Modul-PHP-7/blob/master/Berhasil%20Tambah%20Data.JPG)
+
+Berhasil Tambah Data :
+
+![alt text](https://github.com/Dhimas46/Modul-PHP-7/blob/master/Data%20Dosen.JPG)
+
+
+
+
+
+
+
 
