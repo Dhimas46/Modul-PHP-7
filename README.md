@@ -51,7 +51,7 @@ Hapus Data :
 
 Berhasil Hapus Data :
 
-![alt text}(https://github.com/Dhimas46/Modul-PHP-7/blob/master/berhasil%20hapus%20Data.JPG)
+![alt text](https://github.com/Dhimas46/Modul-PHP-7/blob/master/berhasil%20hapus%20Data.JPG)
 
 Hasil Hapus Data :
 ![alt text](https://github.com/Dhimas46/Modul-PHP-7/blob/master/Hasil%20Akhir%20Hapus%20Data.JPG)
